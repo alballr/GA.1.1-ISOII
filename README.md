@@ -1,12 +1,12 @@
 ---Members---
 
-Alba Llorente Ramírez: Leader
-Hiba El Farissi
-Álvaro de Torres Barón: Secretary
-Alicia Villaseñor Ormeño: Subsecretary
-Irem Batigün
-Abdelmouiz Kobry
-Lucía Sánchez-Chiquito Gómez
+-Alba Llorente Ramírez: Leader
+-Hiba El Farissi
+-Álvaro de Torres Barón: Secretary
+-Alicia Villaseñor Ormeño: Subsecretary
+-Irem Batigün
+-Abdelmouiz Kobry
+-Lucía Sánchez-Chiquito Gómez
 -----------------------------------------------------------------
 WORK AGREEMENT
 1. We will upload our work in the agreed deadlines.
