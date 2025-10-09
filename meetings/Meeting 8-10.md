@@ -9,10 +9,10 @@ This session also served to make sure everyone understood the collaborative work
 Finally, we established the fundamental team roles of leader and secretary, assigning responsibilities to ensure coordination and proper documentation of our future meetings and development progress.
 
 Attendance:
-  - Alvaro de Torres Baron
-  - Alba Llorente
+  - Álvaro de Torres Barón
+  - Alba Llorente Ramírez
   - Alicia Villaseñor Ormeño
   - Hiba El Farissi (Online)
   - İrem Batıgün
   - Moataz Kobry
-  - Lucía Chiquito Rincon - No pudo asistir por baja médica justificada
+  - Lucía Sánchez-Chiquito Gómez - No pudo asistir por baja médica justificada
